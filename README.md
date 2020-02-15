@@ -1,5 +1,5 @@
 # evenOdd
-[![Build Status](http://lx194.lcbo.com:8080/buildStatus/icon?job=libraries)](http://lx194.lcbo.com:8080/job/libraries/)
+[![Build Status](http://lx194.lcbo.com:8080/buildStatus/icon?job=evenOdd)](http://lx194.lcbo.com:8080/job/evenOdd/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
