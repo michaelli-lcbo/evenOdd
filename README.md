@@ -1,6 +1,6 @@
 # evenOdd
 
-[![Build Status](http://lx194.lcbo.com:8080/buildStatus/icon?job=evenOdd)](http://lx194.lcbo.com:8080/job/evenOdd/)
+{<img src='http://lx194.lcbo.com:8080/buildStatus/icon?job=docker+test'/>}[http://lx194.lcbo.com:8080/job/docker%20test/]
 
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
